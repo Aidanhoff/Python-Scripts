@@ -1,10 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "flask_testing"
-		},
-		{
-			"path": "geob_370_proj"
+			"path": "."
 		}
 	],
 	"settings": {
