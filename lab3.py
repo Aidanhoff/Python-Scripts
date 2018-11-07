@@ -55,11 +55,11 @@ in_layers = ['DA_Crimes', 'CT_Crimes']
 unique_ID = 'OBJECTID'
 analysis_fields = 'Tot_Private; MedHHInc; Count_; Sum_Auto_Theft; Sum_B_E_Resid; Sum_Mischief'
 
-for layer in in_layers:
+#for layer in in_layers:
 
-    desc = arcpy.Describe(layer)
-    layer_name = desc.nameString
-    stat.GroupingAnalysis_stats(layer, unique_ID, (workspace + '\\MAUP.gdb\\'+ layer_name[0:2] + '_grouping'), 4, analysis_fields, 'NO_SPATIAL_CONSTRAINT', 'EUCLIDEAN', '', '', , (workspace + '\\{}_grouping.pdf'.format(layer_name[0:2])) )
+    #desc = arcpy.Describe(layer)
+    #layer_name = desc.nameString
+    #stat.GroupingAnalysis_stats(layer, unique_ID, (workspace + '\\MAUP.gdb\\'+ layer_name[0:2] + '_grouping'), 4, analysis_fields, 'NO_SPATIAL_CONSTRAINT', 'EUCLIDEAN', '', '', , (workspace + '\\{}_grouping.pdf'.format(layer_name[0:2])) )
 
 # Question 4: Finding where the CT doesn't represent the underlying variation in the DAs well.
 
@@ -102,11 +102,33 @@ with arcpy.da.SearchCursor("CT_grouping", "OBJECTID") as cursor:
 
 # Next step: data crunching.
 
-#NOTE THAT THIS DOESN'T WORK
-    for i in objectIDs:
-        subset = df_totals.loc[df['CT_OBJID'] == i] # this line causes errors :'(
-        foi = ["MedHHInc", "Sum_Auto_Theft", "Sum_B_E_Resid", "Sum_Mischief"]
-        means = subset[foi].mean(axis=0)
-        print("Mean of {} is {}".format(i, means))
-        variance = subset[foi].var(axis=0)
-        print("Variance of {} is {}".format(i, variance))
+
+def createStatDF(field_names, objID, dataframe_in, stat_type):
+    '''
+        Creates a summary dataframe of statistics across each object ID
+        of a subset of an original dataframe.
+        field_names: A list of field names (matching the columns in the dataframe_in that stats are made from)
+        objID: the input object ID (integer). This function is designed to be called in an iterator of object IDs, but can be used by itself.
+        dataframe_in: the input subset dataframe to perform the analysis on.
+        stat_type: whether to perform pandas .var or .mean, input as "var" or "mean" string.
+
+    '''
+    
+    if stat_type == 'var':
+        listicle = [[field, subset[field].var()] for field in field_names]
+    elif stat_type == 'mean':
+        listicle = [[field, subset[field].mean()] for field in field_names]
+    else:
+        return "stat_type did not match 'mean' or 'var'"
+    
+    listicle.append(['OBJECTID', objID])
+    return listicle
+
+# This needs some work; something's gone real weird. 
+data_means = []
+data_vars = []
+for i in objectIDs:
+    subset = df_totals.loc[lambda df: df['CT_OBJID'] == i]
+    foi = ["MedHHInc", "Sum_Auto_Theft", "Sum_B_E_Resid", "Sum_Mischief"]
+    data_means.append(dict(createStatDF(foi, i, subset, 'mean')))
+    data_vars.append(dict(createStatDF(foi, i, subset, 'var')))
