@@ -71,29 +71,32 @@ analysis_fields = 'Tot_Private; MedHHInc; Count_; Sum_Auto_Theft; Sum_B_E_Resid;
 #   Select the top two results. 
 df_totals = pd.DataFrame() 
 
-arcpy.SelectLayerByAttribute_management("CT_grouping")
+ct_layer = 'VanCT_OLS'
+da_layer = 'VanDA_OLS'
+arcpy.SelectLayerByAttribute_management(ct_layer)
 
-with arcpy.da.SearchCursor("CT_grouping", "OBJECTID") as cursor:
+with arcpy.da.SearchCursor(ct_layer, "OBJECTID") as cursor:
     objectIDs = [row[0] for row in cursor]
 
     for i in objectIDs:
         # Selects each CT by objID
         arcpy.SelectLayerByAttribute_management(
-                "CT_grouping",
+                ct_layer,
                 "NEW_SELECTION",
                 '"OBJECTID" = ' + str(i))
         # Selects by location the DAs within
         current_area = arcpy.SelectLayerByLocation_management(
-                "DA_grouping", 
+                da_layer, 
                 "WITHIN",
-                "CT_grouping",
+                ct_layer,
                 0,
                 "NEW_SELECTION"
                 )
         # Returns values from the selected DAs as a np arr -> pandas df.
         # The temp dataframe is concatenated 
         fields = ["OBJECTID", "MedHHInc", "Sum_Auto_Theft", "Sum_B_E_Resid", "Sum_Mischief"]
-        arr = arcpy.da.TableToNumPyArray("DA_grouping", fields)
+        fields_ols = ["OBJECTID", "MedHHInc", "Estimated", "Residual"]
+        arr = arcpy.da.TableToNumPyArray(da_layer, fields_ols)
         df = pd.DataFrame(arr)
         # Inserting the CT_OBJID to reselect the DAs later.
         df.insert(1, "CT_OBJID", i, allow_duplicates=True)
@@ -115,20 +118,33 @@ def createStatDF(field_names, objID, dataframe_in, stat_type):
     '''
     
     if stat_type == 'var':
-        listicle = [[field, subset[field].var()] for field in field_names]
-    elif stat_type == 'mean':
-        listicle = [[field, subset[field].mean()] for field in field_names]
+        listicle = [[field, dataframe_in[field].var()] for field in field_names]
+    elif stat_type == 'mean':   
+        listicle = [[field, dataframe_in[field].mean()] for field in field_names]
+    elif stat_type == 'std':
+        listicle = [[field, dataframe_in[field].std()] for field in field_names]
     else:
-        return "stat_type did not match 'mean' or 'var'"
+        return "stat_type did not match 'mean', 'std' or 'var'."
     
     listicle.append(['OBJECTID', objID])
     return listicle
 
-# This needs some work; something's gone real weird. 
-data_means = []
-data_vars = []
-for i in objectIDs:
-    subset = df_totals.loc[lambda df: df['CT_OBJID'] == i]
-    foi = ["MedHHInc", "Sum_Auto_Theft", "Sum_B_E_Resid", "Sum_Mischief"]
-    data_means.append(dict(createStatDF(foi, i, subset, 'mean')))
-    data_vars.append(dict(createStatDF(foi, i, subset, 'var')))
+def runStats(objIDs, totals_df, foi, stat_type):
+    '''
+        A function to run the createStatDF function with the desired parameters. Returns pandas dataframe with the desired statistics.
+        da_objids: list of objectIDs to loop through. 
+        ct_objid: the name of the objectID field of the non-stat table. (integer)
+        totals_df: the pandas df including the totals (previously completed)
+        foi: a list of fields to perform analysis on (list)
+        stat_type: the desired type of analysis.
+        returns the dataframe with stats. 
+    '''
+    data = []
+    for i in objIDs:
+        subset = totals_df.loc[lambda df: df['CT_OBJID'] == i]
+        data.append(dict(createStatDF(foi, i, subset, stat_type)))
+
+    df = pd.DataFrame(data)    
+    return df
+
+runStats(objectIDs, df_totals, fields_ols, 'mean')
