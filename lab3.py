@@ -132,8 +132,7 @@ def createStatDF(field_names, objID, dataframe_in, stat_type):
 def runStats(objIDs, totals_df, foi, stat_type):
     '''
         A function to run the createStatDF function with the desired parameters. Returns pandas dataframe with the desired statistics.
-        da_objids: list of objectIDs to loop through. 
-        ct_objid: the name of the objectID field of the non-stat table. (integer)
+        objids: list of objectIDs to loop through. 
         totals_df: the pandas df including the totals (previously completed)
         foi: a list of fields to perform analysis on (list)
         stat_type: the desired type of analysis.
@@ -147,4 +146,11 @@ def runStats(objIDs, totals_df, foi, stat_type):
     df = pd.DataFrame(data)    
     return df
 
-runStats(objectIDs, df_totals, fields_ols, 'mean')
+df_ols = runStats(objectIDs, df_totals, fields_ols, 'mean')
+
+# What did we do next?
+# ct_ols to np arr, to pandas df.
+# df.sort_values to find top 2 (60, 54)
+# merge df with df_ols
+# use df.insert with abs(df.residual_x - df.residual_y)
+# df.sort to get the highest (54,60)
