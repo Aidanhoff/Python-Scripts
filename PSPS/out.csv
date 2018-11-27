@@ -1,0 +1,667 @@
+,Date ,"Time in 
+(24 hours)","Time out
+(24 hours) ",Weather ,Crew Leader (name) ,POI,General Location,Species Code,"Point Area (m²) or
+ Line Depth (m)",PolygonLine ID,Direction from trail ,Distribution Code,"Does this cherry laurel or holly plant have a DBH of 20cm+? 
+",Holly Berries present?,Proximity to stream or wetland,Vegetation layer ,Native Herb Layer %,X_COORD_x,Y_COORD_x,X_COORD_y,Y_COORD_y
+0,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2604,Cleveland,EH,0.5,,E,2.0,,Unknown,10m+,Herb,1-5%,,,-123.221247,49.257856
+1,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2605,Cleveland,EH,2.0,,NE,6.0,,Unknown,10m+,Herb,1-5%,,,-123.221109,49.257767
+2,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2606,Cleveland,EH,3.0,,NE,6.0,,Unknown,10m+,Mixed,76-100%,,,-123.220887,49.257553
+3,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2612,Cleveland,EH,2.0,,E,3.0,,Unknown,10m+,Mixed,26-50%,,,-123.220771,49.257579
+4,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2613,Cleveland,EH,2.0,,E,4.0,,Unknown,10m+,Mixed,6-25%,,,-123.220846,49.257453
+5,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2614,Cleveland,EH,1.0,,E,3.0,,Unknown,10m+,Mixed,6-25%,,,-123.220726,49.257562
+6,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2615,Cleveland,LC,1.5,,E,1.0,,,10m+,Tree,26-50%,,,-123.220842,49.25747
+7,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2616,Cleveland,EH,1.0,,E,2.0,,Unknown,10m+,Mixed,6-25%,,,-123.220723,49.257297
+8,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2617,Cleveland,EI,6.0,,NE,8.0,,,10m+,Mixed,6-25%,,,-123.2208,49.257291
+9,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2618,Cleveland,EH,0.5,,NE,2.0,,Unknown,10m+,Herb,6-25%,,,-123.220797,49.257258
+10,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2619,Cleveland,EH,1.0,,NE,4.0,,Unknown,10m+,Mixed,6-25%,,,-123.220634,49.257264
+11,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2620,Cleveland,EH,0.5,,NE,1.0,,Unknown,10m+,Herb,1-5%,,,-123.220632,49.257221
+12,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2621,Cleveland,EH,0.5,,NE,1.0,,Unknown,10m+,Herb,1-5%,,,-123.220695,49.257135
+13,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2622,Cleveland,EH,0.5,,NE,4.0,,Unknown,10m+,Herb,6-25%,,,-123.220449,49.257229
+14,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2623,Cleveland,EH,0.5,,NE,1.0,,Unknown,10m+,Herb,76-100%,,,-123.220327,49.257258
+15,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2624,Cleveland,EI,0.5,,NE,2.0,,Unknown,10m+,Herb,1-5%,,,-123.219998,49.257184
+16,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2625,Cleveland,EH,0.5,,NE,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219993,49.257269
+17,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2626,Cleveland,EI,3.0,,NE,8.0,,Unknown,10m+,Herb,1-5%,,,-123.219639,49.257145
+18,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2627,Cleveland,EI,2.0,,NE,2.0,,Unknown,10m+,Shrub,26-50%,,,-123.219463,49.257108
+19,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2628,Cleveland,EI,1.0,,E,4.0,,,10m+,Herb,1-5%,,,-123.219647,49.257014
+20,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2629,Cleveland,EH,3.0,,NE,1.0,,,10m+,Tree,6-25%,,,-123.219369,49.256826
+21,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2630,Cleveland,EI,0.5,,NE,1.0,,,10m+,Herb,26-50%,,,-123.219167,49.25652
+22,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2631,Admiralty,EH,2.0,,NE,2.0,,,10m+,Tree,51-75%,,,-123.21901,49.256506
+23,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2632,Cleveland,EH,3.0,,NE,2.0,,,10m+,Shrub,1-5%,,,-123.218754,49.256105
+24,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2635,Cleveland,EH,2.0,,NE,3.0,,,10m+,Herb,1-5%,,,-123.218356,49.255937
+25,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2636,Cleveland,EH,5.0,,N,4.0,,Unknown,10m+,Tree,6-25%,,,-123.218254,49.255904
+26,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2637,Cleveland,LC,1.0,,N,1.0,,,10m+,Tree,6-25%,,,-123.218331,49.25609
+27,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2638,Cleveland,EI,3.0,,N,7.0,,Unknown,10m+,Herb,6-25%,,,-123.218381,49.256075
+28,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2639,Cleveland,EI,3.0,,N,3.0,,Unknown,10m+,Mixed,1-5%,,,-123.218351,49.255888
+29,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2640,Cleveland,EH,2.0,,N,2.0,,Unknown,10m+,Mixed,6-25%,,,-123.218296,49.255915
+30,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2641,Cleveland,EH,0.5,,N,1.0,,Unknown,10m+,Herb,1-5%,,,-123.218351,49.255759
+31,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2642,Cleveland,EI,6.0,,N,8.0,,,10m+,Mixed,1-5%,,,-123.218232,49.255766
+32,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2643,Cleveland,EH,2.0,,N,3.0,,Unknown,10m+,Mixed,6-25%,,,-123.218272,49.255764
+33,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2644,Cleveland,EH,4.0,,N,3.0,,Unknown,10m+,Tree,6-25%,,,-123.218112,49.255787
+34,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2645,Cleveland,EI,0.5,,N,1.0,,,10m+,Mixed,1-5%,,,-123.218085,49.255787
+35,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2646,Cleveland,EI,0.5,,E,3.0,,,10m+,Herb,6-25%,,,-123.21822,49.255643
+36,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2647,Cleveland,EI,0.5,,N,1.0,,,10m+,Herb,1-5%,,,-123.218184,49.255549
+37,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2648,Cleveland,EH,1.5,,N,2.0,,Unknown,10m+,Shrub,1-5%,,,-123.217953,49.255545
+38,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2649,Cleveland,EH,0.5,,N,1.0,,Unknown,10m+,Herb,1-5%,,,-123.217984,49.255618
+39,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2650,Cleveland,EH,1.0,,N,2.0,,Unknown,10m+,Shrub,76-100%,,,-123.217893,49.255653
+40,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2651,Cleveland,EH,2.0,,N,2.0,,Unknown,10m+,Shrub,26-50%,,,-123.217994,49.255434
+41,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2652,Cleveland,EI,4.0,,N,5.0,,,10m+,Mixed,6-25%,,,-123.217957,49.255335
+42,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2653,Cleveland,EI,5.0,,N,6.0,,,10m+,Mixed,6-25%,,,-123.21795,49.25531
+43,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2654,Cleveland,EH,1.0,,E,2.0,,Unknown,10m+,Shrub,1-5%,,,-123.217829,49.255335
+44,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2655,Admiralty,EH,0.5,,E,1.0,,Unknown,10m+,Herb,1-5%,,,-123.217751,49.255068
+45,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2656,Cleveland,EH,2.0,,E,2.0,,Unknown,10m+,Mixed,6-25%,,,-123.217626,49.255089
+46,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2657,Cleveland,EH,2.0,,SW,2.0,,Unknown,10m+,Mixed,6-25%,,,-123.218133,49.255242
+47,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2658,Cleveland,LC,0.5,,SW,1.0,,,10m+,Herb,1-5%,,,-123.218274,49.255203
+48,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2659,Cleveland,EH,1.5,,SE,6.0,,Unknown,10m+,Shrub,6-25%,,,-123.218409,49.25526
+49,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2660,Cleveland,EH,0.5,,SW,1.0,,Unknown,10m+,Herb,1-5%,,,-123.218481,49.255286
+50,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2661,Cleveland,HB,0.5,,SW,1.0,,,10m+,Shrub,1-5%,,,-123.218525,49.255353
+51,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2662,Cleveland,EI,0.5,,SW,1.0,,,10m+,Herb,1-5%,,,-123.21855,49.255491
+52,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2663,Cleveland,EH,1.0,,SW,2.0,,Unknown,10m+,Shrub,6-25%,,,-123.218624,49.255558
+53,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2664,Cleveland,EI,5.0,,SW,2.0,,,10m+,Shrub,76-100%,,,-123.218592,49.255568
+54,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2665,Cleveland,EI,1.0,,SW,2.0,,,10m+,Mixed,1-5%,,,-123.218788,49.255702
+55,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2666,Cleveland,EI,1.0,,SW,1.0,,,10m+,Herb,1-5%,,,-123.218818,49.255702
+56,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2667,Cleveland,EH,1.0,,W,2.0,,Unknown,10m+,Mixed,6-25%,,,-123.218799,49.255789
+57,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2668,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Shrub,26-50%,,,-123.218952,49.255857
+58,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2669,Cleveland,LC,0.5,,W,1.0,,,10m+,Herb,1-5%,,,-123.219071,49.255879
+59,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3070,S.W. Marine,HB,2.0,,NW,2.0,,,10m+,Shrub,6-25%,,,-123.203822,49.237185
+60,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3071,S.W. Marine,SL,0.5,,NW,1.0,,,10m+,Herb,26-50%,,,-123.20434,49.237288
+61,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3072,S.W. Marine,EI,0.6,,NW,3.0,,,10m+,Herb,76-100%,,,-123.20488,49.237473
+62,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3073,S.W. Marine,EI,1.5,L-1,NW,7.0,,,10m+,Herb,76-100%,,,-123.204905,49.237495
+63,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3074,S.W. Marine,EI,5.0,L-2,NW,7.0,,,10m+,Herb,76-100%,,,-123.204961,49.237506
+64,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3075,S.W. Marine,EI,5.0,L-3,NW,7.0,,,10m+,Herb,76-100%,,,-123.204971,49.23744
+65,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3076,S.W. Marine,HB,3.0,,NW,2.0,,,10m+,Shrub,51-75%,,,-123.205089,49.237402
+66,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3077,S.W. Marine,EI,0.5,,NW,2.0,,,10m+,Herb,1-5%,,,-123.205272,49.237642
+67,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3078,S.W. Marine,EI,3.5,,NW,3.0,,,10m+,Herb,6-25%,,,-123.205167,49.237656
+68,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3079,S.W. Marine,EH,0.51,,NW,1.0,No,Unknown,10m+,Shrub,1-5%,,,-123.205177,49.237646
+69,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3080,S.W. Marine,LC,1.5,,NW,1.0,No,,10m+,Shrub,26-50%,,,-123.205375,49.237519
+70,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3081,S.W. Marine,EI,2.5,,NW,7.0,,,10m+,Herb,51-75%,,,-123.20535,49.237587
+71,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3082,S.W. Marine,EH,1.2,,NW,3.0,,,10m+,Shrub,6-25%,,,-123.205896,49.237727
+72,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3083,S.W. Marine,HB,2.5,L-1,NW,4.0,,,10m+,Shrub,51-75%,,,-123.20647,49.237757
+73,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3084,S.W. Marine,HB,2.5,L-2,NW,4.0,,,10m+,Shrub,51-75%,,,-123.206597,49.237804
+74,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3085,S.W. Marine,HB,2.5,L-1¥,NW,4.0,,,10m+,Shrub,51-75%,,,-123.207761,49.238246
+75,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3086,S.W. Marine,HB,2.5,L-2,NW,4.0,,,10m+,Shrub,51-75%,,,-123.208101,49.238244
+76,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3087,S.W. Marine,HB,1.0,,NW,2.0,,,10m+,Shrub,51-75%,,,-123.208297,49.238292
+77,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3088,S.W. Marine,HB,2.0,,NW,7.0,,,10m+,Shrub,76-100%,,,-123.208481,49.238359
+78,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3089,S.W. Marine,HP,2.0,L-2,NW,7.0,,,1m,Shrub,76-100%,,,-123.208634,49.238404
+79,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3090,S.W. Marine,HB,1.0,L-2,NW,4.0,,,10m+,Shrub,76-100%,,,-123.209866,49.238617
+80,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3091,S.W. Marine,HB,2.0,L-2,NW,4.0,,,10m+,Shrub,76-100%,,,-123.210221,49.238698
+81,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3092,S.W. Marine,HB,3.0,L-1,NW,4.0,,,10m+,Shrub,76-100%,,,-123.210474,49.238806
+82,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3093,S.W. Marine,HB,6.0,L-2,NW,7.0,,,10m+,Shrub,26-50%,,,-123.210788,49.238817
+83,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3094,S.W. Marine,HB,2.0,L-3,NW,7.0,,,10m+,Shrub,51-75%,,,-123.211123,49.238857
+84,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3095,S.W. Marine,HB,1.5,,NW,2.0,,,10m+,Shrub,51-75%,,,-123.211458,49.238908
+85,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3096,S.W. Marine,HB,3.0,L-1,NW,7.0,,,2m to 5m,Shrub,26-50%,,,-123.211709,49.238894
+86,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3097,S.W. Marine,HB,12.0,L-2,NW,8.0,,,1m,Shrub,6-25%,,,-123.211673,49.238947
+87,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,3098,S.W. Marine,HB,4.0,L-3,NW,7.0,,,,Shrub,26-50%,,,-123.211818,49.239024
+88,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2672,Sherry Sakamoto,EH,2.0,L1-1,S,4.0,,Unknown,10m+,Tree,26-50%,,,-123.214943,49.258179
+89,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2673,Sherry Sakamoto,EH,2.0,L1-2,S,4.0,,Unknown,10m+,Tree,26-50%,,,-123.214826,49.258247
+90,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2674,Sherry Sakamoto,EH,0.5,,S,1.0,,Unknown,10m+,Herb,1-5%,,,-123.214888,49.258112
+91,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2676,Sherry Sakamoto,HB,0.9,,S,4.0,,Unknown,10m+,Herb,26-50%,,,-123.214613,49.258148
+92,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2677,Sherry Sakamoto,EH,0.5,,S,2.0,,Unknown,10m+,Herb,1-5%,,,-123.214494,49.258147
+93,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2679,Sherry Sakamoto,EH,0.5,,S,3.0,,Unknown,10m+,Herb,1-5%,,,-123.214473,49.258108
+94,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2680,Sherry Sakamoto,EH,0.5,,S,1.0,,Unknown,10m+,Herb,1-5%,,,-123.214521,49.258054
+95,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2681,Sherry Sakamoto,HB,0.5,,S,1.0,,,10m+,Herb,6-25%,,,-123.214195,49.258149
+96,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2682,Sherry Sakamoto,HB,2.5,,S,7.0,,,10m+,Herb,6-25%,,,-123.21416,49.258253
+97,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2683,Sherry Sakamoto,EI,5.0,,S,9.0,,,10m+,Herb,1-5%,,,-123.214173,49.258285
+98,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2684,Sherry Sakamoto,EH,1.0,,S,1.0,,Unknown,10m+,Shrub,1-5%,,,-123.214161,49.258298
+99,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2685,Sherry Sakamoto,EH,1.0,,S,1.0,,Unknown,10m+,Shrub,26-50%,,,-123.214133,49.258345
+100,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2686,Sherry Sakamoto,EH,0.5,,S,1.0,,Unknown,10m+,Herb,1-5%,,,-123.213995,49.258292
+101,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2687,Sherry Sakamoto,EI,0.5,,S,3.0,,,10m+,Herb,6-25%,,,-123.213837,49.25834
+102,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2688,Sherry Sakamoto,EH,3.5,,S,4.0,,Unknown,10m+,Mixed,26-50%,,,-123.2138,49.258264
+103,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2689,Sherry Sakamoto,EI,1.25,,S,1.0,,,10m+,Herb,51-75%,,,-123.213763,49.258242
+104,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2690,Sherry Sakamoto,EI,0.7,L2-1,S,8.0,,,10m+,Herb,1-5%,,,-123.213659,49.258202
+105,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2691,Sherry Sakamoto,EI,0.7,L2-2,S,8.0,,,10m+,Herb,1-5%,,,-123.213685,49.25823
+106,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2692,Sherry Sakamoto,EI,1.0,,S,2.0,,,10m+,Herb,76-100%,,,-123.213685,49.25829
+107,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2693,Sherry Sakamoto,EI,0.9,,S,3.0,,,10m+,Herb,51-75%,,,-123.213576,49.25821
+108,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2694,Sherry Sakamoto,EI,3.2,,S,2.0,,,10m+,Herb,26-50%,,,-123.213496,49.258172
+109,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2695,Sherry Sakamoto,EI,9.0,,S,8.0,,,10m+,Herb,6-25%,,,-123.213469,49.258064
+110,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2696,Sherry Sakamoto,EH,1.0,,S,3.0,,Unknown,10m+,,1-5%,,,-123.213421,49.258268
+111,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2697,Sherry Sakamoto,EI,1.9,,S,2.0,,,10m+,Herb,51-75%,,,-123.213349,49.258185
+112,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2698,Sherry Sakamoto,EH,2.0,,S,1.0,,Unknown,10m+,Tree,1-5%,,,-123.213334,49.258164
+113,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2699,Sherry Sakamoto,EH,0.5,,S,1.0,,F,10m+,Shrub,6-25%,,,-123.213155,49.25821
+114,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2700,Sherry Sakamoto,EI,1.5,,S,3.0,,,10m+,Shrub,1-5%,,,-123.213198,49.258231
+115,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2701,Sherry Sakamoto,EH,3.0,,S,2.0,,Unknown,10m+,Herb,6-25%,,,-123.213057,49.258156
+116,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2808,Nature,EI,3.0,,E,8.0,,,10m+,Herb,1-5%,,,-123.213994,49.258087
+117,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2809,Nature,EH,1.0,,E,4.0,,Unknown,10m+,Herb,1-5%,,,-123.214038,49.257829
+118,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2810,Nature,EI,1.0,,S,5.0,,,10m+,Herb,1-5%,,,-123.214477,49.25739
+119,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2811,Nature,EH,0.5,,S,2.0,,Unknown,10m+,Herb,1-5%,,,-123.214475,49.257357
+120,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2812,Nature,EH,0.5,,SE,2.0,,Unknown,10m+,Herb,6-25%,,,-123.214642,49.257403
+121,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2813,Nature,EH,3.0,,E,4.0,,Unknown,10m+,Herb,1-5%,,,-123.214673,49.257317
+122,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2814,Nature,EI,3.5,,E,6.0,,,10m+,Herb,1-5%,,,-123.214628,49.257457
+123,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2815,Nature,EH,1.0,,E,3.0,,Unknown,10m+,Herb,1-5%,,,-123.214611,49.257275
+124,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2816,Nature,EH,1.0,,E,2.0,,Unknown,10m+,Tree,1-5%,,,-123.214762,49.257029
+125,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2817,Nature,EI,1.0,,E,3.0,,,10m+,Herb,1-5%,,,-123.215129,49.256571
+126,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2818,Nature,EH,1.0,,E,1.0,,Unknown,10m+,Herb,1-5%,,,-123.215999,49.25567
+127,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2819,Nature,EH,0.5,,E,1.0,,Unknown,10m+,Tree,1-5%,,,-123.215902,49.255604
+128,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2820,Deer Fern,EH,0.5,,N,1.0,,Unknown,10m+,Herb,1-5%,,,-123.216331,49.255245
+129,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2821,Deer Fern,EH,3.0,,N,8.0,,Unknown,10m+,Tree,26-50%,,,-123.215917,49.255171
+130,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2822,Deer Fern,EH,1.0,,NE,7.0,,Unknown,10m+,Herb,1-5%,,,-123.215715,49.255103
+131,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2823,Deer Fern,EH,5.0,,E,6.0,,Unknown,10m+,Herb,6-25%,,,-123.215632,49.255155
+132,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2824,Deer Fern,EH,1.0,,E,,,Unknown,10m+,Herb,1-5%,,,-123.21572,49.255064
+133,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2825,Deer Fern,EI,4.0,,E,8.0,,,10m+,Herb,1-5%,,,-123.215714,49.254951
+134,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2826,Deer Fern,EI,4.0,,E,8.0,,,10m+,Herb,1-5%,,,-123.21558,49.255007
+135,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2827,Deer Fern,EH,0.5,,E,3.0,,,10m+,Herb,1-5%,,,-123.21553,49.25491
+136,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2828,Deer Fern,EH,2.0,,E,5.0,,Unknown,10m+,Tree,1-5%,,,-123.215501,49.254649
+137,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2829,Deer Fern,EH,0.5,,E,3.0,,Unknown,10m+,Shrub,26-50%,,,-123.215132,49.254511
+138,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2830,Deer Fern,EH,0.5,,E,2.0,,Unknown,10m+,Herb,1-5%,,,-123.2148,49.254376
+139,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2831,Deer Fern,EH,0.5,,E,2.0,,Unknown,10m+,Herb,1-5%,,,-123.214434,49.254213
+140,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2832,Deer Fern,EH,1.0,,E,3.0,,Unknown,10m+,Tree,6-25%,,,-123.214149,49.253839
+141,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2833,Deer Fern,EH,0.5,,E,3.0,,Unknown,10m+,Herb,1-5%,,,-123.213862,49.253336
+142,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2834,Council,HB,1.0,,NE,2.0,,,10m+,Herb,6-25%,,,-123.212334,49.251918
+143,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2835,Council,EH,0.5,,N,2.0,,Unknown,10m+,Tree,1-5%,,,-123.211712,49.251656
+144,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2836,Council,EH,2.0,,N,4.0,,Unknown,10m+,Tree,6-25%,,,-123.210806,49.251354
+145,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2837,Council,SL,5.0,,N,8.0,,,10m+,Mixed,0%,,,-123.210768,49.251395
+146,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2838,Council,EH,1.0,,N,3.0,,Unknown,10m+,Shrub,1-5%,,,-123.210583,49.251337
+147,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2839,Council,EH,0.5,,N,1.0,,Unknown,10m+,Herb,0%,,,-123.210273,49.251275
+148,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2840,Council,EH,1.0,,N,4.0,,Unknown,6m to 10m,Shrub,1-5%,,,-123.21013,49.251262
+149,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2841,Council,EH,2.0,,N,1.0,,Unknown,10m+,Tree,1-5%,,,-123.209979,49.251126
+150,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2842,Council,EH,2.0,,NE,3.0,,Unknown,10m+,Tree,1-5%,,,-123.209094,49.250812
+151,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2843,Council,EH,2.0,,N,5.0,,Unknown,10m+,Tree,6-25%,,,-123.208226,49.250262
+152,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2844,Council,EI,0.5,,N,1.0,,,10m+,Tree,1-5%,,,-123.208144,49.250248
+153,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2845,Council,EH,8.0,,S,7.0,,Unknown,10m+,Tree,1-5%,,,-123.20776,49.249939
+154,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2846,Council,EH,2.0,,SW,5.0,,,10m+,Tree,1-5%,,,-123.208459,49.250301
+155,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2847,Council,EI,7.0,,SW,8.0,,,1m,Mixed,1-5%,,,-123.209015,49.250622
+156,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2848,Deer Fern,EH,2.0,,SW,5.0,,Unknown,10m+,Shrub,1-5%,,,-123.209239,49.250743
+157,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2849,Council,EH,10.0,,SW,7.0,,Unknown,10m+,Mixed,1-5%,,,-123.209374,49.250799
+158,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2850,Council,EI,1.0,,SW,3.0,,,10m+,Tree,1-5%,,,-123.209322,49.25081
+159,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2851,Council,EH,0.5,,SW,2.0,,Unknown,10m+,Tree,0%,,,-123.20975,49.250952
+160,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2852,Council,EH,1.0,,SW,4.0,,Unknown,10m+,Tree,1-5%,,,-123.210502,49.251248
+161,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2853,Council,EI,2.0,,SW,5.0,,,10m+,Herb,0%,,,-123.210647,49.251204
+162,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2854,Council,EH,1.0,,SW,2.0,,Unknown,10m+,Shrub,1-5%,,,-123.211191,49.251468
+163,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2855,Council,EH,1.0,,S,2.0,,Unknown,10m+,Tree,1-5%,,,-123.2122,49.251796
+164,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2856,Deer Fern,EH,2.0,,W,3.0,,,10m+,Tree,1-5%,,,-123.213888,49.252956
+165,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2857,Deer Fern,EH,3.0,,W,5.0,,Unknown,10m+,Herb,1-5%,,,-123.214012,49.2532
+166,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2858,Deer Fern,EH,4.0,,W,5.0,,Unknown,10m+,Herb,1-5%,,,-123.214227,49.253738
+167,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2859,Deer Fern,EH,5.0,,W,4.0,,Unknown,10m+,Herb,1-5%,,,-123.214225,49.253804
+168,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2860,Deer Fern,EH,2.0,,SW,3.0,,Unknown,10m+,Herb,1-5%,,,-123.21483,49.254284
+169,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2861,Deer Fern,EH,0.5,,SW,1.0,,Unknown,10m+,Herb,1-5%,,,-123.214979,49.254384
+170,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2862,Deer Fern,EH,1.0,,SW,2.0,,Unknown,10m+,Tree,26-50%,,,-123.215302,49.25451
+171,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2863,Deer Fern,EH,1.0,,SW,,,Unknown,10m+,Herb,1-5%,,,-123.215623,49.25464
+172,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2864,Deer Fern,EI,0.5,,W,1.0,,,10m+,Herb,0%,,,-123.215899,49.254963
+173,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2865,Deer Fern,EH,1.0,,SW,3.0,,Unknown,10m+,Herb,1-5%,,,-123.21598,49.255098
+174,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2866,Deer Fern,EI,1.0,,S,2.0,,,10m+,Herb,0%,,,-123.216095,49.255156
+175,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2867,Deer Fern,EH,2.0,,S,3.0,,Unknown,10m+,Herb,1-5%,,,-123.216422,49.255184
+176,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3027,Hemlock,HB,1.0,,W,2.0,,,10m+,Tree,76-100%,,,-123.211826,49.249129
+177,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3028,Hemlock,HB,3.0,,W,4.0,,,10m+,Tree,76-100%,,,-123.211788,49.249102
+178,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3029,Hemlock,HB,3.0,,W,4.0,,,10m+,Tree,51-75%,,,-123.21213,49.249569
+179,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3030,Hemlock,EH,5.0,,NW,6.0,,,10m+,Tree,51-75%,,,-123.211905,49.249703
+180,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3031,Hemlock,EH,1.0,,NW,2.0,,,10m+,Mixed,26-50%,,,-123.211835,49.249751
+181,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3032,Hemlock,EH,1.0,,NW,3.0,,,10m+,Tree,26-50%,,,-123.211909,49.24988
+182,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3033,Hemlock,EI,2.0,,W,3.0,,,10m+,Herb,26-50%,,,-123.211718,49.250309
+183,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3034,Hemlock,EH,4.0,,SW,7.0,,,10m+,Mixed,26-50%,,,-123.211593,49.250667
+184,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3035,Hemlock,SB,1.0,,W,1.0,,,10m+,Tree,6-25%,,,-123.212037,49.250894
+185,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3036,Hemlock,EH,1.0,,W,1.0,,,10m+,Tree,6-25%,,,-123.212117,49.251028
+186,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3037,Hemlock,LC,3.0,,W,3.0,,,10m+,Mixed,6-25%,,,-123.212136,49.251001
+187,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3038,Hemlock,EH,1.0,,W,3.0,,,10m+,Tree,6-25%,,,-123.21236,49.25142
+188,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3039,Hemlock,EI,2.0,,S,2.0,,,10m+,Herb,6-25%,,,-123.212581,49.251587
+189,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3048,Hemlock,EH,10.0,,SW,6.0,,,10m+,Mixed,26-50%,,,-123.217559,49.251901
+190,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3041,Council,EH,1.0,,SE,2.0,,,10m+,Mixed,6-25%,,,-123.214244,49.251539
+191,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3042,Council,EH,1.0,,SE,3.0,,,10m+,Herb,1-5%,,,-123.214557,49.251479
+192,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3043,Council,EH,5.0,,SE,4.0,,,10m+,Mixed,1-5%,,,-123.215316,49.251453
+193,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3044,Council,EH,2.0,,S,2.0,,,10m+,Herb,6-25%,,,-123.216652,49.251524
+194,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3045,Council,EH,3.0,,S,3.0,,,10m+,Mixed,1-5%,,,-123.217189,49.251793
+195,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3046,Council,EH,3.0,,S,4.0,,,10m+,Mixed,26-50%,,,-123.217368,49.251833
+196,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3047,Council,EH,0.5,,S,1.0,,,10m+,Shrub,6-25%,,,-123.217541,49.251935
+197,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3049,Council,EH,0.5,,S,1.0,,,10m+,Shrub,1-5%,,,-123.217633,49.251946
+198,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3050,Council,EH,1.0,,SW,3.0,,,10m+,Herb,1-5%,,,-123.217585,49.251913
+199,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3051,Council,EH,1.0,,S,2.0,,,10m+,Herb,1-5%,,,-123.218076,49.252094
+200,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3052,Council,EH,0.5,,S,1.0,,,10m+,Shrub,6-25%,,,-123.21902,49.252245
+201,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3053,Council,EH,1.5,,S,2.0,,,10m+,Shrub,6-25%,,,-123.21918,49.252163
+202,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3054,Salish,EH,1.0,,NE,1.0,,,10m+,Shrub,26-50%,,,-123.219144,49.251992
+203,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3055,Salish,EH,1.0,,NE,1.0,,,10m+,Tree,6-25%,,,-123.218434,49.25135
+204,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3056,Salish,EI,11.0,,NE,2.0,,,10m+,Herb,6-25%,,,-123.218326,49.251367
+205,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3057,Salish,EH,3.0,,NE,4.0,,,10m+,Shrub,6-25%,,,-123.218103,49.2513
+206,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3058,Top,HP,2.0,,NE,3.0,,,10m+,Mixed,6-25%,,,-123.218291,49.25124
+207,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3059,Salish,EH,4.0,,E,5.0,,,10m+,Mixed,6-25%,,,-123.217326,49.250291
+208,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3060,Salish,EH,4.0,,NE,5.0,,,10m+,Mixed,6-25%,,,-123.216994,49.249993
+209,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3061,Imperial,EH,2.0,,S,3.0,,,10m+,Tree,6-25%,,,-123.214156,49.249041
+210,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3062,Imperial,EH,2.0,,S,3.0,,,10m+,Tree,6-25%,,,-123.213896,49.24903
+211,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3063,Imperial,EH,1.0,,S,5.0,,,10m+,Tree,6-25%,,,-123.213773,49.249087
+212,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3064,Imperial,EH,,,S,3.0,,,10m+,Tree,6-25%,,,-123.21365,49.249055
+213,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3065,Imperial,EH,1.0,,S,3.0,,,10m+,Tree,1-5%,,,-123.213439,49.249053
+214,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3066,Imperial,EH,5.0,,S,8.0,,,10m+,Tree,6-25%,,,-123.213215,49.249017
+215,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3067,Imperial,LC,2.0,,S,3.0,,,10m+,Shrub,1-5%,,,-123.213131,49.249053
+216,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3068,Imperial,EH,2.0,L1-1,S,6.0,,,10m+,Tree,6-25%,,,-123.212802,49.249014
+217,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,3069,Imperial,EH,1.0,L1-2,S,3.0,,,10m+,Tree,6-25%,,,-123.212098,49.249035
+218,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2703,Top,EI,5.0,,E,8.0,,,10m+,Herb,26-50%,,,-123.212174,49.258101
+219,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2704,Top,CP,6.0,L1-1,E,9.0,,,10m+,Herb,1-5%,,,-123.212117,49.258006
+220,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2705,Top,CP,6.0,L1-2,NE,9.0,,,10m+,Herb,1-5%,,,-123.211918,49.257748
+221,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2706,Top,EI,0.5,,NE,1.0,,,10m+,Herb,1-5%,,,-123.211238,49.257794
+222,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2707,Top,EI,3.5,,NE,4.0,,,10m+,Mixed,76-100%,,,-123.211178,49.257758
+223,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2708,Top,EH,1.0,,E,2.0,,Unknown,10m+,Herb,26-50%,,,-123.210912,49.257797
+224,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2709,Top,EI,2.5,,E,5.0,,,10m+,Mixed,26-50%,,,-123.210999,49.257688
+225,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2710,Top,LC,0.5,,NE,1.0,,,10m+,Shrub,26-50%,,,-123.21062,49.257551
+226,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2711,Top,EH,3.0,,NE,4.0,,Unknown,10m+,Shrub,6-25%,,,-123.210184,49.257387
+227,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2712,Top,EH,0.5,,NE,1.0,,Unknown,10m+,Shrub,6-25%,,,-123.210267,49.257413
+228,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2713,Top,EH,1.0,,NE,2.0,,Unknown,10m+,Herb,26-50%,,,-123.210021,49.257216
+229,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2714,Top,CB,0.5,,N,1.0,,,10m+,Shrub,76-100%,,,-123.208979,49.256976
+230,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2715,Top,EH,0.5,,NE,1.0,,Unknown,10m+,Shrub,76-100%,,,-123.208659,49.256675
+231,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2716,Top,EH,0.5,,NE,1.0,,Unknown,10m+,Tree,76-100%,,,-123.208417,49.25619
+232,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2717,Top,EI,1.5,,N,3.0,,,10m+,Herb,76-100%,,,-123.208066,49.256063
+233,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2718,Top,EH,0.5,,N,1.0,,Unknown,10m+,Shrub,76-100%,,,-123.208042,49.256092
+234,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2719,Top,EH,2.0,,N,3.0,,F,10m+,Tree,76-100%,,,-123.207744,49.255944
+235,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2720,Top,EH,2.0,,NE,1.0,,Unknown,10m+,Tree,76-100%,,,-123.207539,49.25588
+236,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2058,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,6-25%,,,-123.221493,49.257942
+237,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2060,Cleveland,EH,0.5,,W,3.0,,Unknown,10m+,Herb,6-25%,,,-123.221349,49.257783
+238,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2061,Cleveland,EH,0.5,,W,3.0,,Unknown,10m+,Herb,6-25%,,,-123.221494,49.257827
+239,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2062,Cleveland,EH,,P1-1,W,6.0,,Unknown,10m+,Herb,1-5%,,,-123.221407,49.257835
+240,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2063,Cleveland,EH,,P1-2,W,6.0,,,10m+,Herb,6-25%,,,-123.221425,49.257941
+241,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2065,Cleveland,EH,,P1-3,W,6.0,,Unknown,10m+,Herb,6-25%,,,-123.221578,49.257877
+242,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2066,Cleveland,EH,,P1-4,W,6.0,,Unknown,10m+,Herb,6-25%,,,-123.221413,49.25784
+243,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2067,Cleveland,EH,0.5,,W,3.0,,Unknown,10m+,Herb,1-5%,,,-123.221351,49.257753
+244,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2068,Cleveland,EI,1.0,,W,3.0,,,10m+,Shrub,6-25%,,,-123.221361,49.257737
+245,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2069,Cleveland,EH,2.3,,W,6.0,,Unknown,10m+,Mixed,6-25%,,,-123.221161,49.257693
+246,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2070,Cleveland,EH,1.0,,W,5.0,,Unknown,10m+,Herb,6-25%,,,-123.22088,49.257505
+247,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2071,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,51-75%,,,-123.220643,49.257026
+248,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2072,Cleveland,EH,1.9,,W,5.0,,Unknown,10m+,Herb,6-25%,,,-123.220327,49.257252
+249,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2073,Cleveland,EI,1.3,,W,2.0,,Unknown,10m+,Herb,6-25%,,,-123.220361,49.257108
+250,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2074,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.220214,49.257054
+251,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2075,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.220212,49.257083
+252,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2076,Cleveland,EI,1.3,,W,3.0,,Unknown,10m+,Herb,1-5%,,,-123.220136,49.25709
+253,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2077,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,26-50%,,,-123.220107,49.256963
+254,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2078,Cleveland,EH,1.5,,W,3.0,,Unknown,10m+,Mixed,1-5%,,,-123.220058,49.256885
+255,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2079,Cleveland,EI,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219883,49.256871
+256,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2080,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219574,49.256676
+257,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2081,Cleveland,EH,1.3,,W,3.0,,Unknown,10m+,Herb,26-50%,,,-123.219555,49.256505
+258,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2082,Cleveland,EI,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219386,49.256451
+259,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2083,Cleveland,LC,1.0,,W,1.0,,Unknown,10m+,Shrub,1-5%,,,-123.219388,49.256448
+260,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2084,Cleveland,EH,2.0,,W,3.0,,,10m+,Tree,1-5%,,,-123.21951,49.256289
+261,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2085,Cleveland,EI,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219329,49.256203
+262,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2086,Cleveland,EH,5.4,,SW,6.0,,Unknown,10m+,Tree,51-75%,,,-123.219364,49.256067
+263,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2088,Cleveland,EI,0.5,,SW,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219203,49.256059
+264,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2089,Cleveland,EH,0.5,,SW,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219248,49.256123
+265,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2090,Cleveland,EH,0.5,,SW,1.0,,Unknown,10m+,Herb,6-25%,,,-123.219092,49.256028
+266,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2091,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219027,49.256003
+267,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2092,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219146,49.256003
+268,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2093,Cleveland,EH,0.7,L1-1,W,2.0,,Unknown,10m+,Shrub,1-5%,,,-123.219138,49.255892
+269,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2094,Cleveland,EH,0.7,L-2,W,3.0,,Unknown,10m+,Shrub,1-5%,,,-123.219197,49.255881
+270,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2095,Cleveland,EI,0.5,,W,1.0,,Unknown,10m+,Herb,1-5%,,,-123.219112,49.255918
+271,2017-10-14,9:30:00,12:30:00,Overcast,Doug Crocker,2096,Cleveland,EH,0.5,,W,1.0,,Unknown,10m+,Herb,0%,,,-123.21907,49.255932
+272,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2675,S.W. Marine,HB,4.0,L1-1,S,4.0,,,10m+,Mixed,51-75%,,,-123.203688,49.23708
+273,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2676,S.W. Marine,HB,4.0,L1-2,S,4.0,,,10m+,Mixed,51-75%,,,-123.203969,49.237175
+274,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2677,S.W. Marine,HB,2.0,L2-1,S,4.0,,,10m+,Mixed,26-50%,,,-123.204189,49.237172
+275,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2678,S.W. Marine,HB,2.0,L2-2,S,4.0,,,10m+,Mixed,26-50%,,,-123.204231,49.237249
+276,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2679,S.W. Marine,EH,1.0,,S,1.0,No,,10m+,Tree,51-75%,,,-123.204244,49.237209
+277,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2680,S.W. Marine,EH,1.0,,S,3.0,No,Unknown,10m+,Shrub,26-50%,,,-123.204311,49.237278
+278,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2681,S.W. Marine,LC,3.0,,S,8.0,No,,10m+,Tree,6-25%,,,-123.20444,49.237292
+279,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2682,S.W. Marine,EH,3.0,,S,4.0,No,Unknown,10m+,Shrub,6-25%,,,-123.204395,49.237285
+280,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2683,S.W. Marine,EH,3.0,,S,8.0,No,Unknown,10m+,Tree,6-25%,,,-123.204355,49.237257
+281,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2684,S.W. Marine,EH,2.0,,S,5.0,No,Unknown,10m+,Mixed,1-5%,,,-123.204632,49.23736
+282,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2685,S.W. Marine,SL,0.5,,S,3.0,No,,10m+,Herb,1-5%,,,-123.204714,49.237315
+283,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2686,S.W. Marine,EI,1.0,,S,3.0,,,10m+,Herb,1-5%,,,-123.204507,49.237236
+284,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2687,S.W. Marine,EH,3.0,,S,3.0,No,Unknown,10m+,Mixed,26-50%,,,-123.204882,49.237389
+285,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2688,S.W. Marine,HB,3.0,L3-1,S,8.0,,,10m+,Shrub,6-25%,,,-123.204775,49.237366
+286,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2689,S.W. Marine,EI,1.0,,SW,3.0,Yes,,10m+,Herb,6-25%,,,-123.20564,49.237682
+287,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2690,S.W. Marine,SL,1.0,,SW,1.0,No,,10m+,Shrub,6-25%,,,-123.205984,49.237643
+288,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2691,S.W. Marine,HB,2.0,L3-2,SW,7.0,,,10m+,Shrub,6-25%,,,-123.207284,49.238002
+289,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2692,S.W. Marine,HB,2.0,L4-1,SW,8.0,,,10m+,Shrub,6-25%,,,-123.207723,49.238146
+290,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2693,S.W. Marine,EH,1.0,,SW,3.0,No,Unknown,10m+,Tree,6-25%,,,-123.208246,49.238263
+291,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2694,S.W. Marine,HB,2.0,L4-2,S,7.0,,,10m+,Shrub,6-25%,,,-123.208976,49.238395
+292,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2695,S.W. Marine,HB,1.0,L5-1,S,7.0,,,10m+,Shrub,26-50%,,,-123.209726,49.238596
+293,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2696,S.W. Marine,CB,1.0,L5-2,S,7.0,,,10m+,Shrub,26-50%,,,-123.209991,49.238576
+294,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2697,S.W. Marine,HB,1.0,L6-1,S,4.0,,,10m+,Shrub,26-50%,,,-123.2102,49.238665
+295,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2698,S.W. Marine,EH,3.0,,S,3.0,No,F,10m+,Shrub,51-75%,,,-123.212145,49.239076
+296,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2699,S.W. Marine,HB,1.0,L6-2,S,7.0,,,10m+,Shrub,26-50%,,,-123.212368,49.239039
+297,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2700,S.W. Marine,EH,2.0,,S,6.0,No,Unknown,10m+,Tree,26-50%,,,-123.212864,49.239173
+298,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2701,S.W. Marine,HB,2.0,L7-1,S,6.0,,,10m+,Shrub,26-50%,,,-123.214022,49.239193
+299,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2702,S.W. Marine,HB,2.0,L7-2,S,6.0,,,10m+,Shrub,26-50%,,,-123.21333,49.23918
+300,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2703,S.W. Marine,HB,3.0,,S,7.0,,,10m+,Shrub,26-50%,,,-123.214231,49.239329
+301,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2704,S.W. Marine,HB,3.0,L8-1,S,8.0,,,10m+,Shrub,6-25%,,,-123.219336,49.240023
+302,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2705,S.W. Marine,HB,3.0,L8-2,S,8.0,,,10m+,Shrub,6-25%,,,-123.220012,49.240066
+303,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2706,S.W. Marine,HB,2.0,L9-1,S,7.0,,,10m+,Shrub,26-50%,,,-123.220265,49.240087
+304,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2707,S.W. Marine,HB,2.0,L9-2,S,7.0,,,10m+,Shrub,26-50%,,,-123.220842,49.24013
+305,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2708,S.W. Marine,HB,3.0,L10-1,S,8.0,,,10m+,Shrub,6-25%,,,-123.222187,49.240548
+306,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2709,S.W. Marine,HB,3.0,L10-2,S,8.0,,,10m+,Shrub,6-25%,,,-123.222664,49.240648
+307,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2710,S.W. Marine,HB,5.0,L11-1,S,9.0,,,10m+,Shrub,6-25%,,,-123.223247,49.240717
+308,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2711,S.W. Marine,EH,2.0,,S,5.0,No,Unknown,10m+,Shrub,51-75%,,,-123.224118,49.241001
+309,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2712,S.W. Marine,EH,1.0,,S,3.0,No,Unknown,10m+,Tree,51-75%,,,-123.224235,49.241021
+310,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2713,S.W. Marine,HB,5.0,L11-2,S,9.0,,,10m+,Shrub,6-25%,,,-123.22442,49.241015
+311,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2714,S.W. Marine,HB,3.0,L12-1,S,8.0,,,10m+,Shrub,6-25%,,,-123.225607,49.241432
+312,2018-02-17,9:30:00,12:30:00,Rain,David Bromley,2715,S.W. Marine,HB,3.0,L12-2,S,8.0,,,10m+,Shrub,6-25%,,,-123.227111,49.2419
+313,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2218,Salish,EH,2.0,L1-1,SE,6.0,,Unknown,10m+,Mixed,6-25%,,,-123.238545,49.272717
+314,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2219,Salish,EH,2.0,L1-2,SE,6.0,,Unknown,10m+,Mixed,6-25%,,,-123.238598,49.272643
+315,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2220,Salish,EH,2.0,,SE,3.0,,F,10m+,Tree,51-75%,,,-123.238599,49.272563
+316,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2221,Salish,EH,1.0,,SE,3.0,,F,10m+,Tree,6-25%,,,-123.238657,49.272559
+317,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2222,Salish,EH,1.0,,SE,1.0,,Unknown,10m+,Shrub,1-5%,,,-123.238512,49.272513
+318,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2223,Salish,LC,0.5,,SE,1.0,,,10m+,Shrub,6-25%,,,-123.238531,49.272506
+319,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2224,Salish,LC,0.5,,SE,1.0,,,10m+,Tree,1-5%,,,-123.238567,49.27244
+320,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2225,Salish,EH,1.0,,SE,1.0,,Unknown,10m+,Tree,76-100%,,,-123.238406,49.272431
+321,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2226,Salish,LC,3.0,,SE,3.0,,,10m+,Tree,26-50%,,,-123.238343,49.272418
+322,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2227,Salish,EH,3.5,,SE,6.0,,F,10m+,Tree,51-75%,,,-123.238596,49.272346
+323,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2228,Salish,LC,0.5,,SE,1.0,,,10m+,Tree,26-50%,,,-123.238585,49.272365
+324,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2229,Salish,HB,7.0,L2-1,SE,8.0,,,10m+,Shrub,1-5%,,,-123.238613,49.272245
+325,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2230,Salish,HB,7.0,L2-2,SE,8.0,,,10m+,Shrub,1-5%,,,-123.23853,49.272145
+326,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2231,Salish,EH,2.0,,SE,6.0,,Unknown,10m+,Tree,1-5%,,,-123.23845,49.27215
+327,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2232,Salish,LC,0.5,,SE,1.0,,,10m+,Tree,6-25%,,,-123.238437,49.272035
+328,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2233,Salish,EH,2.0,,SE,3.0,,Unknown,10m+,Tree,6-25%,,,-123.238387,49.271971
+329,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2234,Salish,EH,1.0,,E,7.0,,Unknown,10m+,Herb,26-50%,,,-123.238513,49.271995
+330,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2235,Salish,HB,2.0,,E,3.0,,,10m+,Tree,26-50%,,,-123.238478,49.271975
+331,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2236,Salish,EI,1.0,,E,3.0,,,10m+,Tree,26-50%,,,-123.238478,49.271987
+332,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2237,Salish,LC,0.5,,E,1.0,,,10m+,Shrub,26-50%,,,-123.2384,49.271977
+333,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2238,Salish,LC,0.5,,E,1.0,,,10m+,Tree,6-25%,,,-123.238457,49.271913
+334,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2239,Salish,EH,3.5,,E,6.0,,Unknown,10m+,Tree,26-50%,,,-123.238501,49.27186
+335,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2240,Salish,EH,1.5,,E,3.0,,Unknown,10m+,Mixed,1-5%,,,-123.238502,49.271806
+336,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2241,Salish,LC,4.0,,E,9.0,,,10m+,Tree,1-5%,,,-123.238417,49.271749
+337,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2242,Salish,EH,2.5,,E,3.0,,Unknown,10m+,Shrub,51-75%,,,-123.23839,49.271627
+338,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2243,Salish,EH,3.0,,E,7.0,,Unknown,10m+,Tree,51-75%,,,-123.238287,49.271666
+339,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2244,Salish,EI,3.0,,E,7.0,,,10m+,Herb,6-25%,,,-123.238421,49.271668
+340,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2245,Salish,EH,0.5,,E,3.0,,Unknown,10m+,Tree,26-50%,,,-123.23845,49.271536
+341,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2246,Salish,EH,4.0,,E,6.0,,Unknown,10m+,Tree,6-25%,,,-123.238258,49.271492
+342,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2247,Salish,EH,2.0,,E,3.0,,Unknown,10m+,Tree,26-50%,,,-123.238208,49.271549
+343,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2248,Salish,LC,4.0,,E,8.0,,,10m+,Tree,1-5%,,,-123.238165,49.271527
+344,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2249,Salish,EH,2.0,,E,5.0,,Unknown,10m+,Tree,0%,,,-123.238129,49.271569
+345,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2250,Salish,LC,0.5,,E,1.0,,,10m+,Tree,26-50%,,,-123.238343,49.271464
+346,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2251,Salish,EH,8.0,L3-1,E,6.0,,Unknown,10m+,Mixed,26-50%,,,-123.238401,49.271448
+347,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2253,Salish,EH,8.0,L3-2,NE,6.0,,Unknown,10m+,Mixed,26-50%,,,-123.238131,49.271136
+348,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2254,Salish,EH,8.0,L4-1,NE,6.0,,Unknown,10m+,Mixed,26-50%,,,-123.238184,49.271125
+349,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2255,Salish,EH,8.0,L4-2,NE,6.0,,Unknown,10m+,Mixed,26-50%,,,-123.238173,49.270925
+350,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2256,Salish,EH,2.0,,NE,6.0,,Unknown,10m+,Mixed,6-25%,,,-123.238178,49.27084
+351,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2257,Salish,EH,2.0,,NE,3.0,,Unknown,10m+,Tree,6-25%,,,-123.238131,49.270606
+352,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2258,Salish,EH,2.0,,NE,1.0,,Unknown,10m+,Tree,1-5%,,,-123.23809,49.270591
+353,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2259,Salish,EI,0.5,,NE,3.0,,,10m+,Shrub,6-25%,,,-123.238247,49.270623
+354,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2260,Salish,EH,2.0,,NE,6.0,,Unknown,10m+,Tree,6-25%,,,-123.238214,49.270445
+355,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2261,Salish,LC,0.5,,NE,1.0,,,10m+,Shrub,6-25%,,,-123.238141,49.27051
+356,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2262,Salish,LC,3.0,,NE,5.0,,,10m+,Shrub,26-50%,,,-123.238111,49.270318
+357,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2263,Salish,EH,8.0,L5-1,E,6.0,,Unknown,10m+,Mixed,6-25%,,,-123.23813,49.270348
+358,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2264,Salish,EH,8.0,L5-2,E,6.0,,Unknown,10m+,Mixed,6-25%,,,-123.237825,49.270067
+359,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2265,Spanish,EH,1.0,,S,3.0,,Unknown,10m+,Tree,26-50%,,,-123.23784,49.269591
+360,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2266,Spanish,EH,2.0,,S,1.0,,Unknown,10m+,Tree,26-50%,,,-123.238031,49.269481
+361,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2267,Salish,EH,4.0,L6-1,NE,7.0,,Unknown,10m+,Tree,6-25%,,,-123.237593,49.27002
+362,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2268,Salish,EH,4.0,L6-2,NE,7.0,,Unknown,10m+,Tree,6-25%,,,-123.237469,49.269788
+363,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2269,Salish,EH,0.5,,S,1.0,,Unknown,10m+,Herb,6-25%,,,-123.237769,49.269651
+364,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2270,Spanish,EH,7.0,L7-1,S,6.0,,Unknown,10m+,Tree,6-25%,,,-123.238148,49.269368
+365,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2271,Spanish,EH,7.0,L7-2,S,6.0,,Unknown,10m+,Tree,6-25%,,,-123.23827,49.269419
+366,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2272,Spanish,EH,3.0,,S,6.0,,F,10m+,Mixed,1-5%,,,-123.238511,49.269553
+367,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2273,Spanish,EI,1.0,,S,7.0,,,10m+,Herb,6-25%,,,-123.238697,49.269594
+368,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2274,Spanish,EH,3.0,,S,1.0,,F,10m+,Tree,6-25%,,,-123.238805,49.269548
+369,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2275,Spanish,EH,1.0,,S,3.0,,Unknown,10m+,Tree,6-25%,,,-123.238809,49.269593
+370,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2276,Spanish,EH,0.5,,S,2.0,,,10m+,Shrub,1-5%,,,-123.238936,49.269595
+371,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2277,Spanish,LC,1.0,,N,1.0,,,10m+,Tree,6-25%,,,-123.237289,49.269823
+372,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2278,Spanish,EH,3.0,,N,1.0,,F,10m+,Tree,26-50%,,,-123.23714,49.26982
+373,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2279,Spanish,EH,2.5,,NE,3.0,,Unknown,10m+,Tree,26-50%,,,-123.237055,49.26977
+374,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2280,Spanish,LC,0.5,,N,1.0,,,10m+,Shrub,6-25%,,,-123.237081,49.269698
+375,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2281,Spanish,LC,0.5,,N,1.0,,,10m+,Shrub,6-25%,,,-123.236992,49.269683
+376,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2282,Spanish,EI,6.5,,N,6.0,,,10m+,Tree,51-75%,,,-123.236827,49.269569
+377,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2283,Spanish,EH,3.0,,N,4.0,,Unknown,10m+,Tree,26-50%,,,-123.23677,49.269601
+378,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2284,Spanish,LC,0.5,,N,1.0,,,10m+,Tree,26-50%,,,-123.236744,49.269568
+379,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2285,Spanish,EH,1.0,,NE,1.0,,Unknown,10m+,Tree,51-75%,,,-123.236676,49.269383
+380,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2286,Spanish,LC,1.5,,NE,3.0,,,10m+,Shrub,6-25%,,,-123.236599,49.269407
+381,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2287,Spanish,EH,1.5,,NE,1.0,,F,10m+,Tree,1-5%,,,-123.23662,49.269322
+382,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2288,Spanish,EH,2.5,,NE,5.0,,Unknown,10m+,Tree,51-75%,,,-123.236528,49.269293
+383,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2289,Spanish,EH,4.0,L8-1,N,4.0,,Unknown,10m+,Mixed,51-75%,,,-123.236473,49.269197
+384,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2290,Spanish,EH,4.0,L8-2,NE,4.0,,Unknown,10m+,Mixed,51-75%,,,-123.236341,49.269073
+385,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2291,Spanish,EH,1.0,,NE,1.0,,Unknown,10m+,Tree,1-5%,,,-123.236177,49.268953
+386,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2292,Spanish,EH,1.0,L9-1,NE,4.0,,Unknown,10m+,Tree,26-50%,,,-123.236125,49.26896
+387,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2293,Spanish,EH,1.0,L9-2,NE,4.0,,Unknown,10m+,Tree,26-50%,,,-123.236082,49.268949
+388,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2294,Spanish,LC,4.0,,NE,3.0,,,10m+,Tree,6-25%,,,-123.236148,49.268992
+389,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2295,Spanish,EH,0.5,,NE,1.0,,Unknown,10m+,Shrub,51-75%,,,-123.235976,49.268932
+390,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2296,Spanish,EI,1.0,,NE,3.0,,,10m+,Tree,6-25%,,,-123.235972,49.269018
+391,2017-11-18,9:30:00,12:30:00,Overcast,David Bromley,2297,Spanish,EH,3.0,,NE,1.0,,F,10m+,Tree,1-5%,,,-123.236027,49.26901
+392,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2542,Trail 4,EH,2.0,,NE,2.0,No,Unknown,10m+,Herb,1-5%,,,-123.259928,49.267762
+393,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2543,Trail 4,EH,1.0,,NE,3.0,Yes,Unknown,10m+,Tree,1-5%,,,-123.260059,49.267866
+394,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2544,Trail 4,EH,1.0,,NE,1.0,Yes,Unknown,10m+,Tree,0%,,,-123.259896,49.267862
+395,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2545,Trail 4,SL,1.0,,NE,1.0,No,Unknown,10m+,Shrub,0%,,,-123.259956,49.267915
+396,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2546,Trail 4,EH,3.0,,NE,4.0,No,Unknown,10m+,Mixed,1-5%,,,-123.259975,49.267897
+397,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2547,Trail 4,SL,1.0,,NE,3.0,No,Unknown,10m+,Mixed,0%,,,-123.259885,49.267943
+398,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2548,Trail 4,EH,1.0,,NE,1.0,No,Unknown,10m+,Herb,0%,,,-123.259893,49.267962
+399,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2549,Trail 4,EH,1.0,,NE,1.0,No,Unknown,10m+,Herb,0%,,,-123.25996,49.267876
+400,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2550,Trail 4,EI,30.0,L1-1,NE,8.0,,,10m+,Herb,1-5%,,,-123.260083,49.267946
+401,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2551,Trail 4,EI,30.0,L1-2,NE,8.0,,,10m+,Herb,1-5%,,,-123.260216,49.268019
+402,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2552,Trail 4,EI,30.0,L1-3,NE,8.0,,,10m+,Herb,1-5%,,,-123.260282,49.268118
+403,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2553,Trail 4,EH,2.0,,NE,2.0,No,Unknown,10m+,Mixed,1-5%,,,-123.260133,49.267997
+404,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2554,Trail 4,HB,15.0,,NE,7.0,,,10m+,Shrub,6-25%,,,-123.260232,49.268107
+405,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2555,Trail 4,EH,1.0,,NE,2.0,No,Unknown,10m+,Herb,1-5%,,,-123.260294,49.268168
+406,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2556,Trail 4,HB,3.0,,NE,4.0,,,10m+,Shrub,1-5%,,,-123.260307,49.268153
+407,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2557,Trail 4,EH,1.0,,NE,2.0,No,Unknown,10m+,Herb,0%,,,-123.260379,49.268216
+408,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2558,Trail 4,EH,1.0,,NE,1.0,No,Unknown,10m+,Herb,0%,,,-123.260547,49.268334
+409,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2559,Trail 4,EH,2.0,,NE,3.0,No,Unknown,10m+,Mixed,0%,,,-123.260595,49.268455
+410,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2560,Trail 4,EH,1.0,,NE,1.0,Yes,Unknown,10m+,Tree,1-5%,,,-123.260817,49.268551
+411,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2561,Trail 4,EH,3.0,,NE,4.0,No,Unknown,10m+,Shrub,6-25%,,,-123.260787,49.268567
+412,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2562,Trail 4,EI,2.0,,NE,5.0,,,10m+,Herb,6-25%,,,-123.260733,49.268511
+413,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2563,Trail 4,HB,2.0,,E,3.0,,,10m+,Shrub,1-5%,,,-123.261002,49.268622
+414,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2564,Trail 4,EI,1.0,,E,1.0,,,10m+,Herb,0%,,,-123.261029,49.268684
+415,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2565,Trail 4,HB,5.0,,NE,6.0,,,10m+,Shrub,51-75%,,,-123.261173,49.26871
+416,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2566,Trail 4,EI,6.0,,NE,5.0,,,10m+,Herb,6-25%,,,-123.261542,49.268793
+417,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2567,Trail 4,HB,20.0,,NW,9.0,,,10m+,Mixed,1-5%,,,-123.262334,49.268824
+418,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2568,Trail 4,HB,6.0,,SE,7.0,,,10m+,Shrub,1-5%,,,-123.262833,49.268847
+419,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2569,Trail 4,HB,20.0,,E,8.0,,,10m+,Shrub,6-25%,,,-123.262707,49.268964
+420,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2570,Trail 4,HB,15.0,,SE,8.0,,,10m+,Shrub,26-50%,,,-123.262549,49.269091
+421,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2571,Trail 4,EI,2.0,,SE,5.0,,,10m+,Herb,1-5%,,,-123.262593,49.269132
+422,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2572,Trail 4,HB,6.0,,E,6.0,,,10m+,Shrub,1-5%,,,-123.262658,49.26924
+423,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2573,Trail 4,HB,6.0,,NE,8.0,No,,10m+,Mixed,1-5%,,,-123.262656,49.269317
+424,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2574,Trail 4,HB,3.0,L2-1,E,6.0,,,10m+,Shrub,0%,,,-123.262646,49.269382
+425,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2575,Trail 4,HB,7.0,L2-2,E,6.0,,,10m+,Shrub,1-5%,,,-123.262581,49.26949
+426,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2576,Trail 4,HB,4.0,L2-3,SE,6.0,,,10m+,Mixed,1-5%,,,-123.262513,49.26967
+427,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2577,Trail 4,HB,7.0,,E,7.0,,,10m+,Mixed,1-5%,,,-123.262411,49.269596
+428,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2578,Trail 4,EH,2.0,,E,3.0,No,Unknown,10m+,Tree,6-25%,,,-123.262293,49.269724
+429,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2579,Trail 4,HB,15.0,L3-1,SE,8.0,,,10m+,Mixed,1-5%,,,-123.262833,49.268732
+430,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2580,Trail 4,HB,15.0,L3-2,SE,8.0,,,10m+,Mixed,1-5%,,,-123.262583,49.268762
+431,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2581,Trail 4,HB,15.0,L3-3,S,8.0,,,10m+,Mixed,1-5%,,,-123.262367,49.268821
+432,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2582,Trail 4,HB,5.0,L3-4,S,6.0,,,10m+,Shrub,6-25%,,,-123.262322,49.268809
+433,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2583,Trail 4,HB,20.0,L3-5,SE,7.0,,,10m+,Shrub,6-25%,,,-123.26223,49.268841
+434,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2584,Trail 4,HB,10.0,L3-6,SE,6.0,,,10m+,Mixed,26-50%,,,-123.262143,49.268914
+435,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2585,Trail 4,EI,10.0,,S,7.0,,,10m+,Herb,6-25%,,,-123.261399,49.268753
+436,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2586,Trail 4,HB,20.0,,SW,7.0,,,10m+,Mixed,6-25%,,,-123.261217,49.268801
+437,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2587,Trail 4,EH,1.0,,SW,3.0,No,Unknown,10m+,Tree,1-5%,,,-123.261277,49.268785
+438,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2588,Trail 4,EI,2.0,,W,5.0,,,10m+,Herb,1-5%,,,-123.261244,49.268668
+439,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2589,Trail 4,EH,1.0,,SW,4.0,No,Unknown,10m+,Herb,1-5%,,,-123.261236,49.268642
+440,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2590,Trail 4,HB,10.0,,SW,6.0,,,10m+,Shrub,1-5%,,,-123.26121,49.268595
+441,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2591,Trail 4,EI,2.0,,SW,2.0,,,10m+,Herb,0%,,,-123.261017,49.268518
+442,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2592,Trail 4,EH,1.0,,SW,1.0,No,Unknown,10m+,Herb,0%,,,-123.261073,49.268501
+443,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2593,Trail 4,EI,1.0,,SW,1.0,,,10m+,Herb,1-5%,,,-123.261102,49.268534
+444,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2594,Trail 4,EH,1.0,,SW,4.0,No,Unknown,10m+,Herb,1-5%,,,-123.261149,49.268543
+445,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2595,Trail 4,EI,3.0,,SW,4.0,,,10m+,Herb,0%,,,-123.26115,49.268525
+446,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2596,Trail 4,EH,1.0,,SW,,No,Unknown,10m+,Herb,0%,,,-123.26109,49.268493
+447,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2597,Trail 4,EH,1.0,,SW,1.0,No,Unknown,10m+,Herb,0%,,,-123.261076,49.268484
+448,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2598,Trail 4,EI,9.0,,SW,6.0,,,10m+,Herb,1-5%,,,-123.260992,49.268449
+449,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2599,Trail 4,EI,2.0,,SW,2.0,,,10m+,Herb,1-5%,,,-123.260801,49.268508
+450,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2600,Trail 4,EI,30.0,,SW,8.0,,,10m+,Herb,6-25%,,,-123.260691,49.268384
+451,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2601,Trail 4,EI,15.0,,SW,7.0,,,10m+,Herb,6-25%,,,-123.260549,49.268298
+452,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2602,Trail 4,EH,3.0,,SW,4.0,No,Unknown,10m+,Herb,0%,,,-123.260477,49.268303
+453,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2603,Trail 4,EI,15.0,,SW,7.0,,,10m+,Herb,6-25%,,,-123.260386,49.268179
+454,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2604,Trail 4,EI,20.0,,SW,8.0,,,10m+,Herb,1-5%,,,-123.260317,49.268115
+455,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2605,Trail 4,EH,1.0,,SW,2.0,No,Unknown,10m+,Herb,1-5%,,,-123.260048,49.267953
+456,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2606,Trail 4,EI,1.0,,SW,2.0,,,10m+,Herb,1-5%,,,-123.260113,49.267956
+457,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2607,Trail 4,EI,2.0,,SW,4.0,,,10m+,Herb,1-5%,,,-123.260059,49.267869
+458,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2608,Trail 4,EI,3.0,,SW,5.0,,,10m+,Herb,0%,,,-123.260022,49.267858
+459,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2609,Trail 4,EH,1.0,,SW,1.0,No,Unknown,10m+,Herb,0%,,,-123.259984,49.267785
+460,2018-01-20,9:30:00,12:30:00,Overcast,Alex Coster,2610,Trail 4,EI,1.0,,W,1.0,,,10m+,Herb,1-5%,,,-123.25994,49.267714
+461,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2097,Imperial,EH,5.0,,E,6.0,,,10m+,Mixed,6-25%,,,-123.202827,49.256969
+462,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2098,Imperial,HB,,P1-1,E,8.0,,,10m+,Shrub,6-25%,,,-123.202837,49.256984
+463,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2099,Imperial,HB,,P1-2,E,8.0,,,10m+,Shrub,6-25%,,,-123.202769,49.256886
+464,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2100,Imperial,HB,,P1-3,E,8.0,,,10m+,Shrub,6-25%,,,-123.202661,49.256918
+465,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2101,Imperial,HB,,P1-4,E,8.0,,,10m+,Shrub,6-25%,,,-123.20263,49.257003
+466,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2102,Imperial,HB,,P1-5,E,8.0,,,10m+,Shrub,6-25%,,,-123.202799,49.257071
+467,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2103,Imperial,LC,0.5,,E,1.0,,,10m+,Shrub,6-25%,,,-123.202787,49.257053
+468,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2104,Imperial,EH,2.0,,E,5.0,,Unknown,10m+,Tree,1-5%,,,-123.202599,49.256864
+469,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2105,Imperial,HB,15.0,L1-1,E,9.0,,,10m+,Shrub,1-5%,,,-123.202938,49.256866
+470,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2106,Imperial,HB,15.0,L1-2,NE,9.0,,,10m+,Shrub,1-5%,,,-123.202756,49.256394
+471,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2107,Imperial,EH,1.0,,NE,1.0,,Unknown,10m+,Tree,1-5%,,,-123.202751,49.25641
+472,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2109,Imperial,EI,5.0,,NE,5.0,,,10m+,Herb,1-5%,,,-123.202613,49.256324
+473,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2110,Imperial,LC,0.5,,NE,1.0,,,10m+,Shrub,1-5%,,,-123.202716,49.256272
+474,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2111,Imperial,HB,2.0,L2-1,E,8.0,,,10m+,Shrub,1-5%,,,-123.202737,49.256317
+475,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2112,Imperial,HB,2.0,L2-2,E,8.0,,,10m+,Shrub,1-5%,,,-123.202503,49.255853
+476,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2113,Imperial,EH,2.0,,E,1.0,,Unknown,10m+,Tree,6-25%,,,-123.202557,49.25586
+477,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2114,Imperial,EH,3.0,,E,4.0,,Unknown,10m+,Tree,26-50%,,,-123.202389,49.255734
+478,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2115,Imperial,LC,2.0,,E,4.0,,,10m+,Tree,6-25%,,,-123.202371,49.255676
+479,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2116,Imperial,HB,2.0,L3-1,E,6.0,,,10m+,Shrub,26-50%,,,-123.202404,49.255725
+480,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2117,Imperial,HB,2.0,L3-2,E,8.0,,,10m+,Shrub,26-50%,,,-123.202181,49.255277
+481,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2118,Imperial,CP,3.0,L4-1,E,8.0,,,10m+,Herb,6-25%,,,-123.2024,49.255611
+482,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2119,Imperial,CP,2.0,L4-2,E,8.0,,,10m+,Herb,6-25%,,,-123.202182,49.25533
+483,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2120,Imperial,EH,0.5,,E,3.0,,Unknown,10m+,Shrub,6-25%,,,-123.201842,49.254893
+484,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2121,Imperial,EI,1.0,,E,6.0,,,10m+,Herb,1-5%,,,-123.20184,49.254877
+485,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2123,Imperial,EH,2.0,,NE,2.0,,Unknown,10m+,Shrub,1-5%,,,-123.201815,49.254753
+486,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2124,Imperial,EI,,L5-1,NE,2.0,,,10m+,Herb,1-5%,,,-123.201915,49.254677
+487,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2125,Imperial,EI,1.0,L5-2,NE,2.0,,,10m+,Herb,1-5%,,,-123.201827,49.254636
+488,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2126,Imperial,EI,2.0,,NE,3.0,,,10m+,Herb,26-50%,,,-123.201649,49.254452
+489,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2127,Imperial,CP,1.5,,NE,8.0,,,10m+,Herb,1-5%,,,-123.201644,49.254239
+490,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2128,Imperial,EI,1.0,,NE,3.0,,,10m+,Herb,1-5%,,,-123.201658,49.25423
+491,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2129,Imperial,CP,2.0,,NE,7.0,,,10m+,Herb,1-5%,,,-123.2016,49.254122
+492,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2130,Imperial,EI,0.5,,NE,1.0,,,10m+,Tree,6-25%,,,-123.20144,49.254081
+493,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2131,Imperial,EI,1.0,,NE,2.0,,,10m+,Herb,1-5%,,,-123.201503,49.253948
+494,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2132,Imperial,CP,5.0,,NE,3.0,,,10m+,Herb,1-5%,,,-123.201413,49.253963
+495,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2133,Imperial,CP,5.0,,NE,6.0,,,10m+,Herb,1-5%,,,-123.201219,49.253203
+496,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2134,Imperial,CP,1.0,,E,3.0,,,10m+,Herb,1-5%,,,-123.201309,49.252797
+497,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2135,Imperial,EI,2.0,,E,8.0,,,10m+,Herb,1-5%,,,-123.201349,49.252594
+498,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2136,Imperial,CP,2.0,L6-1,E,8.0,,,10m+,Shrub,1-5%,,,-123.20179,49.251531
+499,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2137,Imperial,CP,2.0,L6-2,E,8.0,,,10m+,Herb,1-5%,,,-123.201981,49.251344
+500,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2138,Imperial,CP,2.0,L7-1,SE,4.0,,,10m+,Herb,1-5%,,,-123.202087,49.251088
+501,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2139,Imperial,CP,2.0,L7-2,SE,8.0,,,10m+,Herb,1-5%,,,-123.202251,49.250881
+502,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2140,Imperial,HB,2.0,,SE,8.0,,,10m+,Shrub,1-5%,,,-123.202349,49.250741
+503,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2141,Imperial,HB,1.0,,SE,1.0,,,10m+,Shrub,26-50%,,,-123.202443,49.250685
+504,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2143,Imperial,CP,0.5,,SE,3.0,,,10m+,Herb,6-25%,,,-123.202504,49.250662
+505,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2144,Imperial,CP,0.5,,SE,8.0,,,10m+,Herb,1-5%,,,-123.20269,49.250431
+506,2017-10-21,9:30:00,12:30:00,Rain,Joseph Yang,2146,Imperial,EI,1.5,,SE,4.0,,,10m+,Herb,6-25%,,,-123.202662,49.250419
+507,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2794,Hemlock,EI,5.5,,SW,8.0,,,10m+,Mixed,0%,,,-123.208557,49.248163
+508,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2795,Hemlock,EH,3.0,,S,4.0,No,,10m+,Mixed,6-25%,,,-123.20861,49.24813
+509,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2796,Hemlock,EH,0.5,,S,,No,,,Shrub,0%,,,-123.208445,49.248201
+510,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2797,Hemlock,EH,1.0,,S,2.0,No,Unknown,10m+,Herb,1-5%,,,-123.20824,49.248145
+511,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2798,Hemlock,EH,2.5,,S,3.0,No,Unknown,10m+,Mixed,6-25%,,,-123.208181,49.248013
+512,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2800,Hemlock,LC,0.5,,SW,1.0,No,,10m+,Herb,0%,,,-123.2081,49.247941
+513,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2801,Hemlock,EH,0.5,,S,2.0,No,Unknown,10m+,Herb,0%,,,-123.207835,49.247905
+514,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2802,Hemlock,EH,0.5,,SW,1.0,No,Unknown,10m+,Herb,6-25%,,,-123.207633,49.247855
+515,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2803,Hemlock,EH,0.5,,SW,1.0,No,Unknown,10m+,Shrub,6-25%,,,-123.207506,49.247835
+516,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2804,,EI,0.5,,S,3.0,,,10m+,Herb,0%,,,-123.207567,49.247833
+517,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2805,Hemlock,EH,3.0,,S,3.0,No,Unknown,10m+,Mixed,0%,,,-123.207576,49.247779
+518,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2806,Hemlock,EI,0.5,,SW,3.0,,,10m+,Herb,1-5%,,,-123.20756,49.247686
+519,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2807,Hemlock,EH,1.0,,S,3.0,No,,10m+,Mixed,1-5%,,,-123.207627,49.247716
+520,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2808,Hemlock,EH,0.5,,SW,1.0,,,10m+,Tree,6-25%,,,-123.207097,49.247399
+521,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2809,Hemlock,EH,0.5,,SW,1.0,No,Unknown,10m+,Shrub,6-25%,,,-123.207072,49.247377
+522,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2810,Hemlock,EI,0.5,,SW,1.0,,,10m+,Herb,26-50%,,,-123.20711,49.247321
+523,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2811,Hemlock,EH,0.5,,SW,3.0,No,Unknown,10m+,Herb,1-5%,,,-123.207016,49.247278
+524,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2812,Hemlock,EH,0.5,,SW,1.0,No,Unknown,10m+,Shrub,51-75%,,,-123.206968,49.247126
+525,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2813,Hemlock,EI,0.5,,SW,3.0,,,10m+,Herb,26-50%,,,-123.206775,49.247027
+526,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2814,Hemlock,EH,1.0,,SW,3.0,No,Unknown,10m+,Mixed,1-5%,,,-123.205872,49.246276
+527,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2815,Hemlock,EI,0.5,,SW,3.0,,,10m+,Shrub,0%,,,-123.205946,49.246274
+528,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2816,Hemlock,EI,1.0,,SW,3.0,,,10m+,Mixed,1-5%,,,-123.205956,49.246235
+529,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2817,Hemlock,EH,1.0,,SW,2.0,No,Unknown,10m+,Mixed,6-25%,,,-123.205293,49.24556
+530,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2818,Hemlock,EI,0.5,,SW,3.0,,,10m+,Herb,1-5%,,,-123.204249,49.245034
+531,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2819,Hemlock,EI,0.5,,S,3.0,,,10m+,Mixed,6-25%,,,-123.203864,49.244955
+532,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2820,Hemlock,EH,2.0,,S,2.0,,,10m+,Mixed,6-25%,,,-123.203867,49.244931
+533,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2821,Hemlock,EI,0.5,,SE,3.0,,,10m+,Herb,6-25%,,,-123.203652,49.245055
+534,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2822,Hemlock,EI,0.5,,S,2.0,,,10m+,Herb,26-50%,,,-123.203608,49.245011
+535,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2823,Hemlock,EH,1.5,,SW,3.0,No,Unknown,10m+,Mixed,1-5%,,,-123.203504,49.24501
+536,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2824,Hemlock,EH,0.5,,S,2.0,No,Unknown,2m to 5m,Mixed,1-5%,,,-123.203266,49.244923
+537,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2825,Hemlock,EI,1.5,,SW,3.0,,,2m to 5m,Herb,6-25%,,,-123.20308,49.244904
+538,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2826,Hemlock,EH,4.0,,SW,3.0,No,Unknown,2m to 5m,Mixed,6-25%,,,-123.203134,49.24492
+539,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2827,Hemlock,EI,5.0,,NE,3.0,,,6m to 10m,Mixed,26-50%,,,-123.202836,49.24481
+540,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2828,Hemlock,EI,3.0,,NE,3.0,,,6m to 10m,Mixed,51-75%,,,-123.202863,49.244896
+541,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2829,Hemlock,EI,4.0,,NE,3.0,,,6m to 10m,Mixed,6-25%,,,-123.203003,49.244996
+542,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2830,Hemlock,EH,0.5,,NE,1.0,No,Unknown,6m to 10m,Shrub,6-25%,,,-123.202757,49.244959
+543,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2831,,EI,2.5,,N,3.0,,,6m to 10m,Herb,1-5%,,,-123.203165,49.245125
+544,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2832,Hemlock,EH,0.5,,N,2.0,No,Unknown,6m to 10m,Shrub,6-25%,,,-123.203279,49.245146
+545,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2833,Hemlock,EH,0.5,,N,2.0,No,Unknown,6m to 10m,Shrub,1-5%,,,-123.203304,49.245049
+546,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2834,Hemlock,EH,3.0,,NE,3.0,No,Unknown,,Mixed,6-25%,,,-123.203412,49.245135
+547,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2835,Hemlock,EH,3.5,,N,3.0,Yes,Unknown,10m+,Tree,6-25%,,,-123.203711,49.245133
+548,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2836,Hemlock,EI,2.0,,N,2.0,,,10m+,Herb,6-25%,,,-123.203888,49.245062
+549,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2837,Hemlock,EH,0.5,,N,1.0,No,Unknown,10m+,Shrub,6-25%,,,-123.203883,49.245086
+550,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2838,Hemlock,EI,0.5,,N,3.0,,,10m+,Herb,0%,,,-123.204036,49.245022
+551,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2839,Hemlock,EH,0.5,,NE,1.0,No,Unknown,10m+,Shrub,1-5%,,,-123.20416,49.245101
+552,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2840,Hemlock,EH,3.0,,NE,4.0,No,Unknown,10m+,Mixed,26-50%,,,-123.204311,49.245225
+553,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2841,Hemlock,EI,1.0,,NE,3.0,,,10m+,Herb,6-25%,,,-123.204318,49.245241
+554,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2842,Hemlock,EI,0.5,,NE,3.0,,,10m+,Mixed,6-25%,,,-123.204675,49.245261
+555,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2843,Hemlock,EI,4.0,,NE,3.0,,,10m+,Mixed,26-50%,,,-123.20535,49.245591
+556,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2844,Hemlock,EI,0.5,,NE,3.0,,,10m+,Herb,6-25%,,,-123.205364,49.245667
+557,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2845,Hemlock,EH,3.5,,NE,3.0,No,Unknown,10m+,Mixed,6-25%,,,-123.205529,49.24585
+558,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2846,Hemlock,EH,0.5,,NE,1.0,No,Unknown,10m+,Tree,6-25%,,,-123.205674,49.246061
+559,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2847,Hemlock,EI,7.0,,NE,3.0,,,10m+,Mixed,26-50%,,,-123.205857,49.24634
+560,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2848,Hemlock,EH,0.5,,NE,1.0,No,Unknown,10m+,Shrub,6-25%,,,-123.206045,49.246566
+561,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2849,Hemlock,LC,0.5,,NE,1.0,No,,10m+,Shrub,6-25%,,,-123.206032,49.246631
+562,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2850,Hemlock,EI,0.5,,NE,3.0,,,10m+,Herb,0%,,,-123.206127,49.246612
+563,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2851,Hemlock,EH,1.0,,NE,1.0,Yes,Unknown,10m+,Tree,26-50%,,,-123.206418,49.246892
+564,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2852,Hemlock,LC,3.0,,NE,1.0,No,,10m+,Tree,26-50%,,,-123.206422,49.246927
+565,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2853,Hemlock,EH,0.5,,E,1.0,No,Unknown,10m+,Tree,1-5%,,,-123.207139,49.247713
+566,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2854,Hemlock,EH,2.0,,E,2.0,,,10m+,Mixed,26-50%,,,-123.207228,49.247745
+567,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2855,Hemlock,EH,2.5,,NE,3.0,No,Unknown,10m+,Mixed,1-5%,,,-123.20787,49.248134
+568,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2856,Hemlock,EH,2.0,,NE,3.0,No,Unknown,10m+,Mixed,6-25%,,,-123.207939,49.248178
+569,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2857,Hemlock,EH,3.0,,NE,3.0,No,Unknown,10m+,Mixed,6-25%,,,-123.208763,49.248403
+570,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2858,Hemlock,EH,3.0,,NE,3.0,,Unknown,10m+,Mixed,1-5%,,,-123.208945,49.248591
+571,2018-03-24,9:30:00,12:30:00,Overcast,Wendy Thompson,2859,Hemlock,EH,0.5,,N,,No,Unknown,10m+,Herb,0%,,,-123.209102,49.248625
+572,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2298,Nature,EH,0.8,,W,2.0,,Unknown,10m+,Tree,26-50%,,,-123.21436,49.257648
+573,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2299,Nature,EH,0.512,,W,,,Unknown,10m+,Herb,6-25%,,,-123.214353,49.257647
+574,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2300,Nature,SL,0.5,,W,1.0,,,10m+,Herb,26-50%,,,-123.214169,49.257579
+575,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2301,Nature,EI,38.0,,N,8.0,,,10m+,Shrub,1-5%,,,-123.214484,49.25753
+576,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2302,Nature,EH,3.4,,N,,,Unknown,10m+,Mixed,6-25%,,,-123.214459,49.257551
+577,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2303,Nature,EH,1.4,,NW,8.0,,,10m+,Herb,6-25%,,,-123.214789,49.257472
+578,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2304,Nature,EH,3.5,,NW,4.0,,Unknown,10m+,Shrub,1-5%,,,-123.214791,49.257569
+579,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2306,Nature,EH,0.5,,W,3.0,,Unknown,10m+,Shrub,6-25%,,,-123.214858,49.257232
+580,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2307,Nature,EI,3.8,,W,5.0,,,10m+,Herb,26-50%,,,-123.214792,49.257204
+581,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2308,Nature,EH,0.5,,W,3.0,,Unknown,10m+,Mixed,26-50%,,,-123.214889,49.257063
+582,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2309,Nature,EI,0.5,,W,1.0,,,10m+,Herb,51-75%,,,-123.215236,49.256392
+583,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2310,Nature,EH,0.5,,N,2.0,,,10m+,Mixed,6-25%,,,-123.216597,49.255413
+584,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2311,Nature,HB,3.9,,N,6.0,,,10m+,Mixed,26-50%,,,-123.217402,49.255213
+585,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2312,Nature,EH,1.0,,N,3.0,,,10m+,Mixed,1-5%,,,-123.217555,49.255217
+586,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2313,Nature,EH,2.0,,N,5.0,,,10m+,Mixed,26-50%,,,-123.217562,49.255295
+587,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2314,Nature,EH,4.0,,NW,6.0,,,10m+,Tree,76-100%,,,-123.218171,49.254936
+588,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2315,Nature,EH,,,NW,2.0,,,10m+,Mixed,51-75%,,,-123.218645,49.254731
+589,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2316,Nature,EH,3.4,,N,6.0,,,10m+,Mixed,1-5%,,,-123.218819,49.254664
+590,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2317,Nature,EH,1.0,,N,3.0,,,10m+,Mixed,1-5%,,,-123.218964,49.254484
+591,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2318,Nature,EH,3.0,,NW,5.0,,,10m+,Mixed,6-25%,,,-123.219108,49.254492
+592,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2319,Nature,EH,3.0,,N,5.0,,,10m+,Mixed,6-25%,,,-123.219274,49.254402
+593,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2320,Nature,EH,3.0,,NW,8.0,,,10m+,Mixed,6-25%,,,-123.219405,49.25438
+594,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2321,Nature,HB,2.0,,NW,5.0,,,10m+,Mixed,26-50%,,,-123.219622,49.253987
+595,2017-11-25,9:30:00,12:30:00,Overcast,Joseph Yang,2322,Nature,EH,2.0,,NW,5.0,,,10m+,Mixed,6-25%,,,-123.219741,49.253936
+596,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2612,Hemlock,HB,1.0,,E,1.0,,,10m+,Herb,76-100%,,,-123.212071,49.249588
+597,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2613,Hemlock,LC,4.0,,SE,3.0,No,,10m+,Mixed,6-25%,,,-123.211553,49.249814
+598,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2614,,EH,3.0,,SE,4.0,No,Unknown,10m+,Shrub,1-5%,,,-123.211544,49.249782
+599,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2615,Hemlock,EH,1.0,,E,,,,10m+,Herb,1-5%,,,-123.211408,49.249883
+600,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2616,Hemlock,EH,1.5,,NE,3.0,,,10m+,Herb,6-25%,,,-123.211628,49.250101
+601,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2617,Hemlock,EH,1.0,,NE,3.0,,,10m+,Mixed,6-25%,,,-123.211612,49.250263
+602,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2618,Hemlock,EH,0.5,,N,1.0,No,Unknown,10m+,Tree,1-5%,,,-123.211508,49.250649
+603,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2619,Hemlock,EH,2.0,,E,4.0,No,Unknown,10m+,Shrub,6-25%,,,-123.212083,49.251209
+604,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2620,Hemlock,EH,0.5,,NE,2.0,No,Unknown,10m+,Mixed,6-25%,,,-123.212218,49.251213
+605,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2621,Hemlock,EH,1.0,,E,2.0,No,Unknown,10m+,Mixed,1-5%,,,-123.21228,49.251459
+606,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2622,Council,EH,2.0,,NW,3.0,No,F,10m+,Mixed,6-25%,,,-123.213338,49.251979
+607,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2623,Council,EH,1.0,,N,3.0,No,Unknown,10m+,Mixed,6-25%,,,-123.213468,49.251931
+608,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2624,Council,EH,0.5,,N,1.0,No,Unknown,6m to 10m,Shrub,26-50%,,,-123.214317,49.25168
+609,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2625,Council,EH,1.0,,N,2.0,No,Unknown,10m+,Shrub,26-50%,,,-123.216215,49.25148
+610,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2626,Council,EH,4.0,,NE,4.0,No,Unknown,10m+,Mixed,26-50%,,,-123.216364,49.251597
+611,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2627,Council,EH,1.0,,NE,2.0,No,Unknown,10m+,Mixed,26-50%,,,-123.216326,49.251649
+612,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2628,Council,EH,1.0,,NE,2.0,No,Unknown,10m+,Tree,6-25%,,,-123.216998,49.251696
+613,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2629,Council,EH,0.5,,NE,1.0,No,Unknown,10m+,Shrub,1-5%,,,-123.217223,49.251837
+614,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2630,Council,EH,3.0,L1-1,NE,4.0,Yes,,10m+,Mixed,6-25%,,,-123.217626,49.251983
+615,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2631,Council,EH,3.0,L1-2,NE,4.0,No,Unknown,10m+,Mixed,26-50%,,,-123.21781,49.252014
+616,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2632,Council,EH,3.0,L2-1,NE,4.0,No,Unknown,10m+,Mixed,6-25%,,,-123.218011,49.252077
+617,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2633,Council,EH,5.0,L2-2,N,4.0,No,Unknown,10m+,Mixed,6-25%,,,-123.218221,49.252147
+618,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2634,Council,EH,3.0,,N,4.0,No,Unknown,10m+,Mixed,6-25%,,,-123.218868,49.252156
+619,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2635,Council,EH,4.0,,N,4.0,No,Unknown,10m+,Mixed,6-25%,,,-123.219053,49.25225
+620,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2636,Council,EH,1.0,,N,3.0,No,Unknown,10m+,Tree,6-25%,,,-123.219309,49.252151
+621,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2637,Council,EH,1.0,,NE,3.0,No,Unknown,10m+,Shrub,26-50%,,,-123.219443,49.252148
+622,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2638,Salish,EH,1.0,,SW,2.0,No,Unknown,10m+,Mixed,6-25%,,,-123.219497,49.251991
+623,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2639,Salish,EH,1.0,,SW,3.0,No,Unknown,10m+,Tree,6-25%,,,-123.219414,49.251955
+624,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2640,Salish,EH,2.0,,SW,2.0,No,Unknown,10m+,Mixed,6-25%,,,-123.219593,49.251917
+625,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2641,Salish,EH,1.5,,SW,4.0,No,Unknown,10m+,Mixed,6-25%,,,-123.218713,49.251506
+626,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2642,Salish,LC,0.5,,W,3.0,No,,10m+,Mixed,6-25%,,,-123.218735,49.251341
+627,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2643,Salish,EH,1.5,,W,4.0,No,Unknown,10m+,Herb,6-25%,,,-123.218701,49.251375
+628,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2644,Salish,EH,2.0,,SW,2.0,No,Unknown,10m+,Mixed,6-25%,,,-123.218522,49.251238
+629,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2645,Salish,EH,0.5,,SW,2.0,No,Unknown,10m+,Herb,6-25%,,,-123.218145,49.250944
+630,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2646,Salish,EH,3.0,,SW,2.0,No,Unknown,10m+,Mixed,6-25%,,,-123.217589,49.2505
+631,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2647,Salish,EH,0.5,,W,1.0,No,Unknown,10m+,Shrub,1-5%,,,-123.217404,49.250306
+632,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2648,Salish,LC,0.5,,W,1.0,No,,10m+,Shrub,6-25%,,,-123.217367,49.250113
+633,2018-01-27,9:30:00,12:30:00,Rain,Wendy Thompson,2649,Salish,EH,3.0,,SW,4.0,No,Unknown,10m+,Mixed,6-25%,,,-123.217488,49.250136
+634,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2148,Top,EI,2.0,,W,,,,10m+,Mixed,1-5%,,,-123.212316,49.258113
+635,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2149,Top,HB,1.5,,W,7.0,,,10m+,Mixed,6-25%,,,-123.212309,49.258063
+636,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2150,Top,LC,2.0,,W,3.0,,,10m+,Tree,6-25%,,,-123.212292,49.258078
+637,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2151,Top,EI,0.5,,W,2.0,,,10m+,Herb,26-50%,,,-123.212296,49.258017
+638,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2152,Top,EI,5.0,,W,4.0,,,10m+,Herb,6-25%,,,-123.212281,49.257906
+639,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2153,Top,EI,7.0,L1-1,W,,,,10m+,Herb,1-5%,,,-123.212349,49.257916
+640,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2154,Top,EI,7.0,L1-2,W,,,,10m+,Herb,6-25%,,,-123.212109,49.25793
+641,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2155,Top,EI,7.0,L1-3,W,,,,10m+,Herb,6-25%,,,-123.212191,49.257823
+642,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2156,Top,EI,0.6,,W,4.0,,,10m+,Herb,26-50%,,,-123.212146,49.257773
+643,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2157,Top,EI,1.2,,W,5.0,,,10m+,Herb,1-5%,,,-123.212115,49.257708
+644,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2158,Top,EH,0.85,,W,1.0,,,10m+,Tree,1-5%,,,-123.212143,49.257733
+645,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2159,Top,EI,0.7,,W,4.0,,,10m+,Herb,1-5%,,,-123.212041,49.25763
+646,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2160,Top,HB,10.0,L2-1,W,9.0,,,10m+,Mixed,1-5%,,,-123.211623,49.257764
+647,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2161,Top,HB,10.0,L2-2,W,9.0,,,10m+,Mixed,1-5%,,,-123.211374,49.257648
+648,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2162,Top,HB,10.0,L2-3,W,9.0,,,10m+,Mixed,1-5%,,,-123.211357,49.25753
+649,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2163,Top,EH,0.5,,W,1.0,,,10m+,Shrub,1-5%,,,-123.211533,49.257639
+650,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2164,Top,EH,0.5,,W,1.0,,,10m+,Shrub,1-5%,,,-123.211459,49.257702
+651,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2165,Top,CP,8.5,,W,9.0,,,10m+,Herb,1-5%,,,-123.211246,49.257694
+652,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2166,Top,EH,0.5,,W,1.0,,,10m+,Shrub,1-5%,,,-123.211128,49.257567
+653,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2167,Top,EH,1.0,,S,3.0,,,10m+,Mixed,1-5%,,,-123.210643,49.257397
+654,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2168,Top,EI,0.5,,S,2.0,,,10m+,Herb,1-5%,,,-123.210579,49.257479
+655,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2169,Top,EH,1.0,,S,3.0,,,10m+,Mixed,1-5%,,,-123.210688,49.257372
+656,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2170,Top,EI,2.4,,S,6.0,,,10m+,Mixed,26-50%,,,-123.210649,49.257349
+657,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2171,Top,EH,1.1,,S,2.0,,,10m+,Shrub,6-25%,,,-123.210674,49.25736
+658,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2172,Top,EH,0.5,,S,1.0,,,10m+,Tree,51-75%,,,-123.210482,49.257401
+659,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2173,Top,EH,1.3,,S,4.0,,,10m+,Mixed,6-25%,,,-123.210422,49.257412
+660,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2174,Top,EH,1.0,,S,2.0,,,10m+,Shrub,6-25%,,,-123.210237,49.257328
+661,2017-10-28,9:30:00,12:30:00,Clear,Wendy Thompson,2175,Top,EH,0.5,,S,1.0,,Unknown,10m+,Shrub,6-25%,,,-123.212538,49.258204
